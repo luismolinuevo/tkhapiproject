@@ -1,0 +1,33 @@
+.container {
+  padding: 30px 40px;
+}
+
+.heading {
+  text-align: center;
+}
+
+#btn {
+  padding: 8px;
+  display: flex;
+  justify-content: center;
+  margin: auto;
+}
+
+.items {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  padding: 5px;
+}
+
+.item {
+  font-size: 20px;
+}
+
+.character {
+  font-style: italic;
+  font-size: 18px;
+  font-weight: bold;
+}
+
